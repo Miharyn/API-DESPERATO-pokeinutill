@@ -1,0 +1,30 @@
+{
+  "pokealgo": {
+    "data": [
+      {
+        "nome": "Ditto",
+        "tipo": "Normal",
+        "geracao": "Primeira Geração"
+        "id":  "#132"
+      },
+      {
+        "nome": "Umbreon",
+        "tipo": "Sombrio",
+        "geracao": "Segunda Geração"
+        "id":  "#197"
+      },
+      {
+        "nome": "Zacian",
+        "tipo": "Fada/Aço",
+        "geracao": "Oitava Geração",
+        "id": "#888"
+      },
+      {
+        "nome": "Eternatus",
+        "tipo": "Veneno/Dragão",
+        "geracao": "Oitava Geração",
+        "id": "#890"
+      }
+    ]
+  }
+}
